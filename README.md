@@ -1,5 +1,5 @@
 # Hack Assembler
-Machine language assembler for the Hack Assembly Language.
+Machine language assembler for the Hack Assembly Language part of the nand2tetris project.
 
 ## Description
 The assembler takes a program file written in the Hack Assembly Language (.asm) and assembles it into binary machine code (Hack Machine Language). The assembled machine code program is written to a file which is given the extension .hack.
